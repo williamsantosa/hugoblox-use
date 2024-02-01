@@ -20,9 +20,11 @@ superuser: true
 role: Software Engineer, Gamer, & Leisure Programmer
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: University of California, Los Angeles
-    url: https://www.ucla.edu/
+# organizations:
+#   - name: University of California, Los Angeles
+#     url: https://www.ucla.edu/
+#   - name: Roblox
+#     url: https://www.roblox.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -36,15 +38,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Computer Science
+      institution: University of California, Los Angeles
+      year: 2023
+    - course: BSc in Computer Science
+      institution: University of California, Santa Cruz
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,22 +92,13 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:williamwsantosa@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/williamsantosa
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/williamsantosa/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +110,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! 👋 My name is Will.
+I decided to pursue building software as I enjoy solving problems and continuously learning.
+That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to mastering my craft.
+Some topics I'm interested in are distributed systems, artificial intelligence, databases, and video games.
+I'm currently a graduate student at UCLA.
 {style="text-align: center;"}
