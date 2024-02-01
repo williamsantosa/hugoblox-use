@@ -6,7 +6,7 @@ name = "Riot"
   primary = "#dedede"
 
   # Menu
-  menu_primary = "#222425"
+  menu_primary = "#16181a"
   menu_text = "rgba(255,255,255,0.9)"
   menu_text_active = "#D13639"
   menu_title = "#fff"
