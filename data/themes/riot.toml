@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Riot"
+
+[dark]
+  # Primary
+  primary = "#dedede"
+
+  # Menu
+  menu_primary = "#222425"
+  menu_text = "rgba(255,255,255,1)"
+  menu_text_active = "#912426"
+  menu_title = "#fff"
+
+  # Backgrounds
+  background = "#212529"
+  home_section_odd = "#212529"
+  home_section_even = "#343a40"
+
+  link = "#912426"
+  link_hover = "#F12B15"
