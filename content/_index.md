@@ -102,7 +102,7 @@ sections:
           location: Santa Cruz, CA
           date_start: '2022-03-01'
           date_end: '2022-06-01'
-          description: Here I worked with Professor Jason Nielsen to create a machine learning program with neural networks that identifies factors correlating to the formation of the Higgs Boson with an approximately 80% validation accuracy from sample size of 200,000+ events.
+          description: At SCIPP I worked with Professor Jason Nielsen and a team of undergrad/graduate researchers to create a machine learning program with neural networks that identifies factors correlating to the formation of the Higgs Boson with an approximately 80% validation accuracy from sample size of 200,000+ events.
         - title: Peer Navigator
           company: University of California, Santa Cruz
           company_url: ''

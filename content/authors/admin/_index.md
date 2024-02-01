@@ -114,5 +114,5 @@ Hi! 👋 My name is Will.
 I decided to pursue building software as I enjoy solving problems and continuously learning.
 That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to mastering my craft.
 Some topics I'm interested in are distributed systems, artificial intelligence, databases, and video games.
-I'm currently a graduate student at UCLA.
+I'm currently a graduate student studying computer science at UCLA.
 {style="text-align: center;"}

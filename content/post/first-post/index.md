@@ -1,6 +1,6 @@
 ---
 title: First post
-summary: Trying to figure out how this works!
+summary: Trying to figure out how this works
 
 # Date published
 date: '2024-02-01T00:00:00Z'
