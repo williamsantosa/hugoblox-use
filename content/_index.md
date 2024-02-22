@@ -62,7 +62,7 @@ sections:
       columns: '1'
       view: masonry
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: experience
     id: experience
     content:
@@ -118,7 +118,7 @@ sections:
           date_end: '2021-08-31'
           description: Taught students forms, techniques, and hard-working philosophy of Taekwondo. 🥋 Supervised and coached students at tournaments and events.
     design:
-      columns: '2'
+      columns: '1'
   - block: experience
     id: education
     content:
@@ -140,11 +140,11 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-              Learning new things and meeting people 🙂
+            
         - title: Bachelor of Science in Computer Science
           company: University of California, Santa Cruz
-          company_url: 'https://www.maxar.com/'
-          company_logo: maxar
+          company_url: 'https://www.ucsc.edu/'
+          company_logo: ucsc-seal
           location: Santa Cruz, CA
           date_start: '2020-07-01'
           date_end: '2023-06-01'

@@ -4,7 +4,7 @@ summary: NoteScript is a full stack web application that allows users to easily 
 tags:
   - Web Application
   - Artificial Intelligence
-date: "2024-02-22T00:00:00Z"
+date: "2024-02-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/williamsantosa/TFC-Boston-Hackathon-2023
