@@ -27,13 +27,11 @@ role: Software Engineer, Gamer, & Leisure Programmer
 #     url: https://www.roblox.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Systems
 
 # Education to show in About widget
 education:
@@ -113,6 +111,6 @@ highlight_name: true
 Hi! 👋 My name is Will.
 I decided to pursue building software as I enjoy solving problems and continuously learning.
 That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to mastering my craft.
-Some topics I'm interested in are distributed systems, artificial intelligence, databases, and video games.
+Some topics I'm interested in are software engineering, distributed systems, artificial intelligence, computer networking, and games.
 I'm currently a graduate student studying computer science at UCLA.
 {style="text-align: center;"}
