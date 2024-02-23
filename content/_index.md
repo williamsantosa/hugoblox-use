@@ -55,6 +55,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Pinned
+          tag: Pinned
         - name: Other
           tag: Other
     design:
