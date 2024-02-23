@@ -1,12 +1,14 @@
 ---
-title: Weighted Rarity Tables
-summary: An example of using the in-built project page.
+title: Weighted Rarity Table
+summary: Simple implementation of weighted rarity tables and luck rate in Python.
 tags:
   - Deep Learning
+  - Short
+  - Python
 date: '2022-02-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/williamsantosa/weighted-rarity-tables'
 
 image:
   caption: Photo by rawpixel on Unsplash
