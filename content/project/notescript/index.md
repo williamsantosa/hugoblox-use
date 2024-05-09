@@ -1,6 +1,6 @@
 ---
 title: NoteScript
-summary: NoteScript is a full stack web application that allows users to easily generate notes for transcripts. Created for the Civic Tech Hackathon hosted by Tech For Change at Boston University, Feb 25 - 26, 2023.
+summary: Full stack web application that allows users to easily generate notes for transcripts.
 tags:
   - Medium
   - Web Application
