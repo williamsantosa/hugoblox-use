@@ -11,33 +11,33 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 3
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -86,7 +86,11 @@ sections:
           date_start: '2024-06-18'
           date_end: ''
           description: |2-
-              I’ve played Roblox since 2011 and have always wanted to work with them! Excited for this upcoming summer! ٩(^ᗜ^ )و
+              Unified two high-performance products handling over 220,000 total requests per second in each deployed region.\
+              Implemented and contributed to design of new API endpoints and MSSQL components to migrate data from old products to new unified product.\
+              Implemented and designed an exporter from old data from into new configuration as code format as an intermediary step in migrating the data.\
+              Used Python requests and GitHub Action to automate and validate publishing of data from configuration as code to new MSSQL data.\
+              Added endpoints to send requests across environments, collaborating with the cross environment team.
         - title: Software Engineering Intern
           company: Maxar Technologies
           company_url: 'https://www.maxar.com/'
@@ -94,7 +98,10 @@ sections:
           location: San Jose, CA
           date_start: '2022-06-01'
           date_end: '2022-09-01'
-          description: At Maxar I designed and developed a database installation tool for the new Intelsat satellites launched by SpaceX. 🚀 I automated and optimized weekly database installations of telemetry data and learned about CI/CD, Agile, pull requests, code reviews, and unit/manual testing.
+          description: |2-
+              Designed and developed internal system feature for satellites including the Galaxy-31 and Galaxy-32 Intelsat C-band Satellites launched by SpaceX.\
+              Automated and optimized weekly database installations of telemetry data using Bash scripts and Python.\
+              Proposed and implemented persistent storage option, automatically uploading new telemetry information to physical data stores upon change.
         - title: Research Assistant
           company: Santa Cruz Institute of Particle Physics
           company_url: ''
@@ -102,7 +109,7 @@ sections:
           location: Santa Cruz, CA
           date_start: '2022-03-01'
           date_end: '2022-06-01'
-          description: At SCIPP I worked with Professor Jason Nielsen and a team of undergrad/graduate researchers to create a machine learning program with neural networks that identifies factors correlating to the formation of the Higgs Boson with an approximately 80% validation accuracy from sample size of 200,000+ events.
+          description: Collaborated on machine learning program with Professor Jason Nielsen and team to identify Higgs boson particle’s correlating variables from sample size of over 200,000 events using Keras, TensorFlow, matplotlib, pandas, dBase, and Jupyter Notebook.
         - title: Peer Navigator
           company: University of California, Santa Cruz
           company_url: ''
@@ -110,7 +117,10 @@ sections:
           location: Santa Cruz, CA
           date_start: '2021-06-01'
           date_end: '2021-12-01'
-          description: I held weekly office hours to help frosh acclimate to university and homework. Graded and gave feedback to 50+ students from pool of 200+ weekly. Planned and supervised university affiliated events.
+          description: |2-
+              Held weekly office hours to help students with navigating university and homework.\
+              Graded and gave feedback to over 100 students across 4 unique sections weekly.\
+              Planned and supervised university events.
         - title: Instructor & Coach
           company: Koo's Martial Arts
           company_url: ''
@@ -118,7 +128,7 @@ sections:
           location: Dublin, CA
           date_start: '2017-07-01'
           date_end: '2021-08-31'
-          description: Taught students forms, techniques, and hard-working philosophy of Taekwondo. 🥋 Supervised and coached students at tournaments and events.
+          description: Taught over 100 students forms, techniques, and hard-working philosophy of Taekwondo. Supervised and coached at tournaments and events.
     design:
       columns: '1'
   - block: experience
@@ -150,7 +160,7 @@ sections:
           location: Santa Cruz, CA
           date_start: '2020-07-01'
           date_end: '2023-06-01'
-          description: Graduated with Highest Honors in Major. Coursework includes Database Systems, Computational Models and Analysis of Algorithms, Principles of Computer System Design, Computer Architecture, and Computer Graphics.
+          description: Summa Cum Laude, graduated with Highest Honors in Major. Coursework includes Database Systems, Computational Models and Analysis of Algorithms, Principles of Computer System Design, Computer Architecture, and Computer Graphics.
     design:
       columns: '1'
   - block: contact

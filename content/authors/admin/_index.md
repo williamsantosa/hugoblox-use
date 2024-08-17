@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Computer Science
+    - course: Master of Science in Computer Science
       institution: University of California, Los Angeles
       year: 2023
-    - course: BSc in Computer Science
+    - course: Bachelor of Science in Computer Science
       institution: University of California, Santa Cruz
       year: 2020
 
@@ -109,8 +109,8 @@ highlight_name: true
 ---
 
 Hi! 👋 My name is Will.
-I decided to pursue building software as I enjoy solving problems and continuously learning.
-That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to mastering my craft.
-Some topics I'm interested in are software engineering, distributed systems, artificial intelligence, computer networking, and games.
+I build software because I enjoy learning and solving problems.
+That, coupled with my lifelong vision of inspiring and making people happy through my work, led me to continuously improving my craft.
+Some topics I'm interested in are software design, foundational infrastructure, distributed systems, and artificial intelligence.
 I'm currently a graduate student studying computer science at UCLA.
 {style="text-align: center;"}
