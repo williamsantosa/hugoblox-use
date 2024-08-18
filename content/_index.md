@@ -100,7 +100,7 @@ sections:
           date_end: '2022-09-01'
           description: |2-
               Designed and developed internal system feature for satellites including the Galaxy-31 and Galaxy-32 Intelsat C-band Satellites launched by SpaceX.\
-              Automated and optimized weekly database installations of telemetry data using Bash scripts and Python.\
+              Automated and optimized weekly database installations of telemetry data using Bash scripts, Python, and unit tests.\
               Proposed and implemented persistent storage option, automatically uploading new telemetry information to physical data stores upon change.
         - title: Research Assistant
           company: Santa Cruz Institute of Particle Physics
