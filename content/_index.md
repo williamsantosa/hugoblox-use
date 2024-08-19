@@ -88,7 +88,7 @@ sections:
           description: |2-
               Unified two high-performance products handling over 220,000 total requests per second in each deployed region.\
               Implemented and contributed to design of new API endpoints and MSSQL components to migrate data from old products to new unified product.\
-              Implemented and designed an exporter from old data from into new configuration as code format as an intermediary step in migrating the data.\
+              Implemented and designed an exporter from old data into new configuration as code format as an intermediary step in the migration process.\
               Used Python requests and GitHub Action to automate and validate publishing of data from configuration as code to new MSSQL data.\
               Added endpoints to send requests across environments, collaborating with the cross environment team.
         - title: Software Engineering Intern
