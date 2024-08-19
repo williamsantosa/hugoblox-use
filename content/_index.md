@@ -86,7 +86,7 @@ sections:
           date_start: '2024-06-18'
           date_end: ''
           description: |2-
-              Unified two high-performance products handling over 220,000 total requests per second in each deployed region, reducing operational overhead from having to manage different but similar products\
+              Unified two high-performance products handling over 220,000 total requests per second in each deployed region, reducing operational overhead from having to manage different but similar products.\
               Implemented and contributed to design of new API endpoints and MSSQL components to migrate over 1,000,000 rows of data from old products to new unified product.\
               Implemented and designed an exporter from old data into new configuration as code format as an intermediary step in the migration process.\
               Used Python requests and GitHub Action to automate and validate publishing of data from configuration as code to new MSSQL data.\
