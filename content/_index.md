@@ -104,7 +104,7 @@ sections:
               Proposed and implemented persistent storage option, automatically uploading new telemetry information to physical data stores upon change.
         - title: Research Assistant
           company: Santa Cruz Institute of Particle Physics
-          company_url: ''
+          company_url: 'https://scipp.science.ucsc.edu/'
           company_logo: scipp
           location: Santa Cruz, CA
           date_start: '2022-03-01'
@@ -112,7 +112,7 @@ sections:
           description: Collaborated on machine learning program with Professor Jason Nielsen and team to identify Higgs boson particle’s correlating variables from sample size of over 200,000 events using Keras, TensorFlow, matplotlib, pandas, dBase, and Jupyter Notebook.
         - title: Peer Navigator
           company: University of California, Santa Cruz
-          company_url: ''
+          company_url: 'https://www.ucsc.edu/'
           company_logo: ucsc-seal
           location: Santa Cruz, CA
           date_start: '2021-06-01'
@@ -123,7 +123,7 @@ sections:
               Planned and supervised university events.
         - title: Instructor & Coach
           company: Koo's Martial Arts
-          company_url: ''
+          company_url: 'https://kootkd.square.site/'
           company_logo: koos
           location: Dublin, CA
           date_start: '2017-07-01'
@@ -152,7 +152,8 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-            
+              Coursework includes database systems/mining, artificial intelligence/life, and computer vision.\
+              Social & Wellness Director @ UCLA Association of Indonesian Americans. 
         - title: Bachelor of Science in Computer Science
           company: University of California, Santa Cruz
           company_url: 'https://www.ucsc.edu/'
@@ -160,7 +161,7 @@ sections:
           location: Santa Cruz, CA
           date_start: '2020-07-01'
           date_end: '2023-06-01'
-          description: Summa Cum Laude, graduated with Highest Honors in Major. Coursework includes Database Systems, Computational Models and Analysis of Algorithms, Principles of Computer System Design, Computer Architecture, and Computer Graphics.
+          description: Summa Cum Laude, graduated with highest honors in major. Coursework includes database systems, computational models, analysis of algorithms, computer system design, computer architecture, and computer graphics.
     design:
       columns: '1'
   - block: contact
