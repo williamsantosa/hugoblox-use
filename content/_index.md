@@ -86,8 +86,8 @@ sections:
           date_start: '2024-06-18'
           date_end: ''
           description: |2-
-              Unified two high-performance products handling over 220,000 total requests per second in each deployed region.\
-              Implemented and contributed to design of new API endpoints and MSSQL components to migrate data from old products to new unified product.\
+              Unified two high-performance products handling over 220,000 total requests per second in each deployed region, reducing operational overhead from having to manage different but similar products\
+              Implemented and contributed to design of new API endpoints and MSSQL components to migrate over 1,000,000 rows of data from old products to new unified product.\
               Implemented and designed an exporter from old data into new configuration as code format as an intermediary step in the migration process.\
               Used Python requests and GitHub Action to automate and validate publishing of data from configuration as code to new MSSQL data.\
               Added endpoints to send requests across environments, collaborating with the cross environment team.
@@ -100,7 +100,7 @@ sections:
           date_end: '2022-09-01'
           description: |2-
               Designed and developed internal system feature for satellites including the Galaxy-31 and Galaxy-32 Intelsat C-band Satellites launched by SpaceX.\
-              Automated and optimized weekly database installations of telemetry data using Bash scripts, Python, and unit tests.\
+              Automated and optimized weekly database installations of telemetry data using Bash scripts, Python, and unit tests, saving over 3 hours of work weekly.\
               Proposed and implemented persistent storage option, automatically uploading new telemetry information to physical data stores upon change.
         - title: Research Assistant
           company: Santa Cruz Institute of Particle Physics
