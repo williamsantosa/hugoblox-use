@@ -113,4 +113,5 @@ I build software because I enjoy learning and solving problems.
 That, coupled with my lifelong vision of inspiring and making people happy through my work, led me to continuously improving my craft.
 Some topics I'm interested in are software design, foundational infrastructure, distributed systems, and artificial intelligence.
 I'm currently a graduate student studying computer science at UCLA.
+Some of my hobbies are playing the ukulele, rock climbing, video games, collecting stuffed animals, and working out.
 {style="text-align: center;"}
